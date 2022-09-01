@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2a1379d73b15cf34ab995510a54c6ff5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sellCursor: {fileID: 2800000, guid: 69db4d7f04e6d224da0b94dd3c0f26e9, type: 3}
+  - inventoryWindow: {instanceID: 0}
+  - dummyParent: {instanceID: 0}
+  - itemCopy: {instanceID: 0}
+  - itemInpo: {instanceID: 0}
+  - euipmentGroup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
